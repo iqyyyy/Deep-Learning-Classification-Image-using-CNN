@@ -1,2 +1,2 @@
 # Deep-Learning-Classification-Image-using-CNN
-Klasifikasi menggunakan Deep Learning dengan algoritma CNN untuk mendeteksi gambar permainan tangan Batu Gunting Kertas
+Penerapan Deep Learning dengan algoritma Convolutional Neural Network untuk mendeteksi gambar permainan tangan: Batu, Guntin,g Kertas
